@@ -14,12 +14,12 @@ timezone: Europe/Prague
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Hiwaga # the main title
+title: Michal Grečner # the main title
 
-tagline: A blog about technology, IT and everything that makes me wonder. # it will display as the sub-title
+tagline: A personal blog about technology, IT and everything that makes me wonder. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A blog about technology, IT and everything that makes me wonder.
+  A personal blog about technology, IT and everything that makes me wonder.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
